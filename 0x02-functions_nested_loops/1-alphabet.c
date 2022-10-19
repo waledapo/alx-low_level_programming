@@ -3,9 +3,9 @@
  * main-entry point
  * Return:0
  */
-int main(void)
-{
+
 	void print_alphabet(void);
+{
 	char i;
 
 	for (i = 'a'; i <= 'z'; i++)
@@ -13,6 +13,4 @@ int main(void)
 
 
 	_putchar('\n');
-
-	return (0);
 	}
