@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - entry point 
+ * main-entry point
  * @argc:arguement counter
  * @argv: character array
  * Return: Always 0
